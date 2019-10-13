@@ -20,4 +20,4 @@ pip is already installed if you have python 3.x but if you encounter any trouble
 
 ## End Result
 Here an example of what the terminal looks like when we run the program.
-![](/terminal_capture.png)
+![ok](/terminal_capture.png)
