@@ -17,3 +17,7 @@ To be able to run this program you will need to have the following components on
 `pip install urllib3`
 * pip (Python package manager)
 pip is already installed if you have python 3.x but if you encounter any trouble, please read [here.](https://pip.pypa.io/en/stable/installing/)
+
+## End Result
+Here an example of what the terminal looks like when we run the program.
+![](/terminal_capture.png)
