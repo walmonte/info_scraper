@@ -1,8 +1,8 @@
-# info_scraper
-Simple Python app that requests and scrapes information from a given list of instagram profiles.
+## Summary
+info-scraper is a Python app that requests and scrapes information from a given list of instagram profiles. The links to the instagram pages can be found on the file 'users.txt' and can be modified as needed. Keep in mind that instagram might have a limit on the number of requests we can make.
 
 ## How to Run it
-To be able to run this program you will need to have the following on your computer:
+To be able to run this program you will need to have the following components on your computer:
 1. Python 3.x
 1. The requests library
 1. The BeautifulSoup library
