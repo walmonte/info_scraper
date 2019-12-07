@@ -8,9 +8,9 @@ To be able to run this program you will need to install the following components
 1. The BeautifulSoup library
 
 ## Installing Libraries
-* requests
+* requests:
 `pip install requests`
-* BeautifulSoup4
+* BeautifulSoup4:
 `pip install bs4`
-* pip (Python package manager)
-pip is already installed if you have python 3.x but if you encounter any trouble, please read [this.](https://pip.pypa.io/en/stable/installing/)
+* pip (Python package manager):
+pip should already be installed if you have python 3.x but if you encounter any trouble, please read [this.](https://pip.pypa.io/en/stable/installing/)
