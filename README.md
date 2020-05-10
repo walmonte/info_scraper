@@ -13,4 +13,4 @@ To be able to run this program you will need to install the following components
 * BeautifulSoup4:
 `pip install bs4`
 * pip (Python package manager):
-pip should already be installed if you have python 3.x but if you encounter any trouble, please read [this.](https://pip.pypa.io/en/stable/installing/)
+pip should already be installed if you have python 3.x but if you encounter any trouble, please refer to the [PyPa documentation.](https://pip.pypa.io/en/stable/installing/)
